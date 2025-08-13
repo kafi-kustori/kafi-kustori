@@ -1,48 +1,77 @@
-# Hey there, I'm Kafi 👋
 
-🚀 **Flutter Developer | Cybersecurity Enthusiast | CSE @ RUET**  
-💡 Passionate about building impactful apps, solving CTF challenges, and exploring AI & ML.  
-🎯 On a mission to create tech that connects people and opens new opportunities.
+***
 
----
+Hello, I'm Abdullah Hal Kafi Nafees 👋
 
-## ⚡ About Me
-- 🎓 2nd-year CSE student at **RUET**  
-- 📱 Building **RUET Smart Connect** – a campus hub for events, notices, and clubs  
-- 🛡️ Learning **Web Exploitation** for CTFs  
-- 🌱 Growing in **Machine Learning & Data Science**  
-- 🌍 Aspiring to study abroad with a fully funded Master's/PhD  
 
----
+![Typing SVG](https://git.io/typing & Engineering @ RUET  
+💡 Passionate about building impactful applications and exploring the cybersecurity landscape  
+🎯 On a mission to create technology that connects communities and unlocks new possibilities  
 
-## 🛠 Tech Stack
-**Languages & Frameworks:**  
-`Flutter` `Dart` `Python` `Kotlin` `HTML` `CSS`  
 
-**Tools & Platforms:**  
-`Firebase` `Git` `GitHub` `Android Studio`  
+👨💻 Professional Overview  
+🎓 Academic Background: 2nd-year Computer Science & Engineering student at Rajshahi University of Engineering & Technology (RUET)  
+🛡️ Core Interests: Mobile Application Development, Cybersecurity Research, and Digital Innovation  
+🎨 Creative Skills: Video editing, graphic design, and user interface development  
+📚 Current Focus: Advanced Flutter development, cybersecurity methodologies, and software engineering principles  
 
----
+🛠️ Technical Expertise  
+**Programming Languages & Frameworks**  
+  
 
-## 📌 Featured Project
-### [RUET Smart Connect 📱](https://github.com/your-repo-link)
-A role-based Flutter + Firebase app for campus life:  
-- 📢 Notice system (Urgent, Events, Announcements, etc.)  
-- 🎉 Event hub with upvotes & search  
-- 💡 Workshop portal with registration links  
-- 🏛 Club directory with sorting & search  
-- ⚡ Powerful admin panel for real-time updates  
+**Core Computer Science Fundamentals**  
+- Data Structures & Algorithms - Advanced problem-solving and optimization  
+- Object-Oriented Programming - Design patterns and software architecture principles  
 
----
+**Development Tools & Platforms**  
+  
 
-## 📊 GitHub Stats
-![Kafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kafi-kustori&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=kafi-kustori&theme=tokyonight)  
+🚀 Featured Project  
+[RUET Connect - Intelligent Campus Management Platform](https://github.com/your-repo-link)  
+  
+  
+  
+  
+  
 
----
+A comprehensive role-based mobile application revolutionizing campus communication:  
 
-## 🌐 Connect with Me
-[LinkedIn](https://linkedin.com/in/your-link) • [Email](mailto:your-email@example.com)
+**Key Features & Capabilities**  
+- 📢 Advanced Notice System - Multi-category classification with real-time delivery  
+- 🎉 Interactive Event Platform - Community-driven engagement with voting and search functionality  
+- 💡 Workshop Management Portal - Comprehensive information hub with integrated registration  
+- 🏛️ Dynamic Club Directory - Advanced search, filtering, and popularity-based sorting  
+- ⚡ Administrative Dashboard - Complete content lifecycle management with instant publishing  
 
----
-✨ *"Code. Learn. Break. Build. Repeat."*
+**Technical Achievements**  
+- Implemented robust role-based authentication and authorization  
+- Developed scalable Firebase backend architecture  
+- Created intuitive Material Design 3 user interface  
+- Built real-time data synchronization system  
+
+🌐 Professional Network  
+  
+Get In Touch  
+[Email](mailto:kafikustori@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/abdullah-hal-kafi-nafees-0948b220a)  
+WhatsApp Contact  
+  
+  
+  
+
+🎯 Professional Philosophy  
+  
+"Innovation through dedication, growth through challenge, impact through code."  
+Committed to continuous learning, collaborative development, and creating technology solutions that make a meaningful difference in people's lives.  
+  
+
+  
+Currently Exploring  
+🔐 Advanced Cybersecurity Frameworks | 📱 Cross-Platform Development | 🎨 UI/UX Design Principles  
+
+
+***
+
+This completes your profile with a professional and polished presentation of your academic background, skills, projects, and contact information.
+
+[1] https://git.io/typing-svg
