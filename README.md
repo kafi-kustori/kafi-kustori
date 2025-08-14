@@ -1,4 +1,4 @@
-# Hello, I'm Abdullah Hal Kafi Nafees 👋
+# Hello, I'm Kafi  👋
 
 <div align="center">
 
